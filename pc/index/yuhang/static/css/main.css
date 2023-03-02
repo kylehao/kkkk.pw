@@ -40,13 +40,13 @@ a img {
 #astronaut {
 	width: 730px;
 	height: 650px;
-	background: transparent url(../image/astronaut.png) no-repeat;
+	background: transparent url(https://jihulab.com/free163/kkkk.pw/-/raw/c04c2191b3c14af1920f5742dbce906e648c3594/pc/index/yuhang/static/image/astronaut.png) no-repeat;
 	position: relative;
 	margin-left: 50px;
 	top: 20%;
 }
 #space {
-	background: transparent url(../image/space.jpg) repeat-x 0 0 fixed;
+	background: transparent url(https://jihulab.com/free163/kkkk.pw/-/raw/c04c2191b3c14af1920f5742dbce906e648c3594/pc/index/yuhang/static/image/space.jpg) repeat-x 0 0 fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -130,7 +130,7 @@ a img {
 }
 
 .inputField {
-	background: transparent url("../image/search_bg.png") no-repeat 0 0 scroll;
+	background: transparent url("https://jihulab.com/free163/kkkk.pw/-/raw/c04c2191b3c14af1920f5742dbce906e648c3594/pc/index/yuhang/static/image/search_bg.png") no-repeat 0 0 scroll;
     border: none;
     color: #959595;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -143,7 +143,7 @@ a img {
 }
 
 .btn-search {
-	background: url("../image/search_btn.png") no-repeat scroll 0 0 transparent;
+	background: url("https://jihulab.com/free163/kkkk.pw/-/raw/c04c2191b3c14af1920f5742dbce906e648c3594/pc/index/yuhang/static/image/search_btn.png") no-repeat scroll 0 0 transparent;
     border: none;
     cursor: pointer;
     width: 54px;
@@ -153,5 +153,5 @@ a img {
 }
 
 .btn-search:hover {
-	background: url("../image/search_btn.png") no-repeat scroll 0 -36px transparent;
+	background: url("https://jihulab.com/free163/kkkk.pw/-/raw/c04c2191b3c14af1920f5742dbce906e648c3594/pc/index/yuhang/static/image/search_btn.png") no-repeat scroll 0 -36px transparent;
 }
